@@ -1,0 +1,42 @@
+{
+  "basics": {
+    "name": "Enrico Kalkbrenner",
+    "email": "jsonresume@ek9r.de",
+    "url": "https://ek9r.de",
+    "location": {
+      "postalCode": "24145",
+      "city": "Kiel",
+      "countryCode": "DE",
+      "region": "Schleswig-Holstein"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "verkalkt",
+        "url": "https://twitter.com/verkalkt"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Dataport AöR",
+      "url": "https://dataport.de",
+      "startDate": "2017-11-01",
+      "endDate": "2042-09-30",
+      "summary": "Wir machen digitale Zukunft."
+    },
+    {
+      "name": "Deutsche Telekom AG",
+      "url": "https://telekom.de",
+      "startDate": "1996-08-01",
+      "endDate": "2017-10-31",
+      "summary": "Erleben, was verbindet!"
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    }
+  ]
+}
