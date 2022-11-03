@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 💬 Ask me anything about „IT-Gedöns“: [@verkalkt](https://twitter.com/verkalkt)
+ 💬 Ask me anything about „IT-Gedöns“: [xing.to/EK9r](https://xing.to/EK9r)
 
 #### ME
 
