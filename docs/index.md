@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 💬 Ask me anything about „IT-Gedöns“: [xing.to/EK9r](https://xing.to/EK9r)
+ 💬 Ask me anything about „IT-Gedöns“: [x.com/verkalkter](https://x.com/verkalkter)
 
 #### ME
 
