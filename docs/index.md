@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 💬 Ask me anything about „IT-Gedöns“: [x.com/verkalkter](https://x.com/verkalkter)
+ 💬 Ask me anything about „IT-Gedöns“: [userdir.de/~kalki/](https://userdir.de/~kalki/)
 
 #### ME
 
