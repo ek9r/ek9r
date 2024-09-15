@@ -11,9 +11,8 @@
     },
     "profiles": [
       {
-        "network": "X (Twitter)",
-        "username": "Verkalkter",
-        "url": "https://x.com/verkalkter"
+        "network": "ATProto (Bluesky)",
+        "url": "https://bsky.app/profile/ek9r.de"
       }
     ]
   },
