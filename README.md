@@ -5,4 +5,3 @@
 -->
 
 - My JSON Resume: [resume.json](resume.json)
-- My Profile Documents: [e.k9r.de](https://e.k9r.de)
